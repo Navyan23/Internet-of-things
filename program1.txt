@@ -10,3 +10,4 @@ https://wokwi.com/projects/305566932847821378 (blink an led)
 
 https://wokwi.com/projects/334977710373732948   (servo moter- 1)
 https://wokwi.com/projects/334979366855377490  (clock type - servomoter)
+https://wokwi.com/projects/334982086942261844    (using potentiometer servometer)
