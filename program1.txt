@@ -6,3 +6,7 @@ https://wokwi.com/projects/333804621070860883    (red green blue)
 
 https://wokwi.com/projects/new/arduino-uno   (hello)
 https://wokwi.com/projects/305566932847821378 (blink an led)
+
+
+https://wokwi.com/projects/334977710373732948   (servo moter- 1)
+https://wokwi.com/projects/334979366855377490  (clock type - servomoter)
