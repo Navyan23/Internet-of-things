@@ -4,7 +4,7 @@ https://wokwi.com/projects/333716288653230676   (1)3LED
 https://wokwi.com/projects/333800186223526484   (2)RGB 
 https://wokwi.com/projects/333804621070860883   (red green blue)
 
-https://wokwi.com/projects/322062421191557714  (hello)
+https://wokwi.com/projects/322062421191557714  (hello LCD)
 https://wokwi.com/projects/305566932847821378  (blink an led)
 
 
@@ -17,3 +17,4 @@ https://wokwi.com/projects/335068344588698194  (Buzzor with push button)
 
 https://wokwi.com/projects/335072097778795092   (we did)
 https://wokwi.com/projects/335071568727114322   (Ultrasonicsensor)
+https://wokwi.com/projects/335074087297614419   (Ultrasonocsensor with buzzer)
