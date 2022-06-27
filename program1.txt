@@ -20,3 +20,5 @@ https://wokwi.com/projects/335072097778795092   (we did)
 https://wokwi.com/projects/335071568727114322   (Ultrasonicsensor)
 https://wokwi.com/projects/335074087297614419   (Ultrasonocsensor with buzzer)
 https://wokwi.com/projects/335611531295195730   (ultrasonic sensor with buzzer and LED)
+
+https://wokwi.com/projects/335617269702853204    (Two ultra sonic sensor)
