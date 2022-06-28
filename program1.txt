@@ -24,3 +24,4 @@ https://wokwi.com/projects/335611531295195730   (ultrasonic sensor with buzzer a
 https://wokwi.com/projects/335617269702853204   (Two ultra sonic sensor)
 
 https://wokwi.com/projects/335701644446532180   (potentiometr using led)
+https://wokwi.com/projects/335705362914083411   (Servomotor with pushbutton)
