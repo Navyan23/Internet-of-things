@@ -23,8 +23,8 @@ https://wokwi.com/projects/337605583877177938  (DH22 with LCD)<br>
 10.https://wokwi.com/projects/335074087297614419   (Ultrasonocsensor with buzzer)<br>
 11.https://wokwi.com/projects/335611531295195730   (ultrasonic sensor with buzzer and LED)<br>
 12.https://wokwi.com/projects/335701644446532180   (potentiometr using led)<br>
-13.https://wokwi.com/projects/337602684471214674 - DHT22(Humidity and Temperature sensor)<br>
-14.https://wokwi.com/projects/337604296859189842 - DHT22 + LCD(Humidity and Temperature sensor<br>
+13.https://wokwi.com/projects/337602684471214674   (DHT22(Humidity and Temperature sensor)<br>
+14.https://wokwi.com/projects/337604296859189842   (DHT22 + LCD(Humidity and Temperature sensor)<br>
 15.https://wokwi.com/projects/340775764469219922   (LED_CHASER)<br>
 16.https://wokwi.com/projects/340776572602548818   (LDR)<br>
 17.https://wokwi.com/projects/340776926585029204   (LDR_LED)<br>
