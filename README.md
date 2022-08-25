@@ -40,7 +40,7 @@ ESP32<br>
 5.Servomotor with pushbutton: https://wokwi.com/projects/340856211886834260<br>
 6.servomotor with sliding potentiometer : https://wokwi.com/projects/340872161402028628<br>
 7.buzzer with pushbutton:  https://wokwi.com/projects/340857898569564756<br>
-8.<br>
+8.Ultrasonic with buzzer: https://wokwi.com/projects/340950702931051091<br>
 9.<br>
 10<br>
 11<br>
