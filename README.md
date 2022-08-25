@@ -28,3 +28,14 @@ https://wokwi.com/projects/337605583877177938  (DH22 with LCD)<br>
 15.https://wokwi.com/projects/340775764469219922   (LED_CHASER)<br>
 16.https://wokwi.com/projects/340776572602548818   (LDR)<br>
 17.https://wokwi.com/projects/340776926585029204   (LDR_LED)<br>
+
+
+
+
+ESP32
+1.LED:https://wokwi.com/projects/336877332872561236 
+2.ESP32 3 LED:https://wokwi.com/projects/336882445805683282 
+3.ESP32 RGB LED: https://wokwi.com/projects/336879976249819732 
+4.ESP32 RGB LCD: https://wokwi.com/projects/340854854168609362
+5.servomotor with sliding potentiometer : https://wokwi.com/projects/340872161402028628
+6. LED_Chaser: https://wokwi.com/projects/340854632473428562
