@@ -37,9 +37,9 @@ ESP32<br>
 2.ESP32 3 LED:https://wokwi.com/projects/336882445805683282 <br>
 3.ESP32 RGB LED: https://wokwi.com/projects/336879976249819732 <br>
 4.ESP32 RGB LCD: https://wokwi.com/projects/340854854168609362<br>
-5.<br>
+5.Servomotor with pushbutton: https://wokwi.com/projects/340856211886834260<br>
 6.servomotor with sliding potentiometer : https://wokwi.com/projects/340872161402028628<br>
-7.<br>
+7.buzzer with pushbutton:  https://wokwi.com/projects/340857898569564756<br>
 8.<br>
 9.<br>
 10<br>
