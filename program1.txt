@@ -23,6 +23,7 @@ https://wokwi.com/projects/337605583877177938  (DH22 with LCD)
 13.https://wokwi.com/projects/340775764469219922   (LED_CHASER)
 14.https://wokwi.com/projects/340776572602548818   (LDR)
 15.https://wokwi.com/projects/340776926585029204   (LDR_LED)
+https://wokwi.com/projects/340952372671939156
 
 
 
