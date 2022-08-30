@@ -33,3 +33,41 @@ https://wokwi.com/projects/337605583877177938  (DH22 with LCD)<br>
 
 
 
+
+
+#define sensorPin 7<br>
+#define relayPin 8<br>
+
+// Variable to store the time when last event happened<br>
+unsigned long lastEvent = 0;<br>
+boolean relayState = false;    // Variable to store the state of relay<br>
+<br>
+void setup() {<br>
+	pinMode(relayPin, OUTPUT);  // Set relay pin as an OUTPUT pin<br>
+	pinMode(sensorPin, INPUT);  // Set sensor pin as an INPUT<br>
+}<br>
+
+void loop() {<br>
+	// Read Sound sensor<br><br>
+	int sensorData = digitalRead(sensorPin);<br>
+
+	// If pin goes LOW, sound is detected<br>
+	if (sensorData == LOW) {<br>
+
+	// If 25ms have passed since last LOW state, it means that<br>
+	// the clap is detected and not due to any spurious sounds<br>
+	if (millis() - lastEvent > 25) {
+		//toggle relay and set the output<br>
+		relayState = !relayState;<br>
+		digitalWrite(relayPin, relayState ? HIGH : LOW);<br>
+	}<br>
+
+	// Remember when last event happened<br>
+	lastEvent = millis();<br>
+	}<br>
+}<br>
+
+
+
+
+
